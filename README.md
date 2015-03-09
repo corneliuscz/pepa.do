@@ -12,7 +12,7 @@ Instalace
 =========
 
 1. Stáhnout repozitář
-1. Nainstalovat jednotlivé závislosti pomocí ''composer install''
+1. Nainstalovat jednotlivé závislosti pomocí `composer install`
 1. Nastavit databázi a šifrovací klíč v .env.php
-1. Migrovat databázi ''php artisan migrate''
-1. Vytvořit uživatele přes ''php artisan tinker''
+1. Migrovat databázi `php artisan migrate`
+1. Vytvořit uživatele přes `php artisan tinker`
