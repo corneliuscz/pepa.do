@@ -1,0 +1,20 @@
+{
+  "name": "Conference discussion module",
+  "version": "0.1",
+  "homepage": "http://none-yet",
+  "authors": [
+    "Josef Vybíral <josef.vybiral@gmail.com>"
+  ],
+  "description": "Module allowing conference attendees drop you some questions",
+  "license": "CC-BY-NC",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "~3.2.0"
+  }
+}
